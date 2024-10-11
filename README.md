@@ -13,7 +13,6 @@
 8. Te qet notification qdo dite diqka interesante qka munet me diten tane ne baze te horoskopit
 
 authers..bardhi
-
 Deadline:
 01-03-2025  
 
