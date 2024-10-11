@@ -11,3 +11,5 @@
 6. Nuk ka nevoj per login
 7. Aplikacion n telefon
 8. Te qet notification qdo dite diqka interesante qka munet me diten tane ne baze te horoskopit
+  authers..bardhi
+  
